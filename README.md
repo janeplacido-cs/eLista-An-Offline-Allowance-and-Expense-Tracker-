@@ -1,4 +1,4 @@
-# eLista: An Offline Allowance and Wallet Tracker
+# eLista: An Offline Allowance and ExpenseTracker
 
 **Track Your Wallet, Every Peso**
 
