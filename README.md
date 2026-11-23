@@ -10,23 +10,6 @@ eLista is a fully offline allowance and expense tracker for students and other p
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)
 ![Offline-first](https://img.shields.io/badge/Mode-Offline--first-4C8C4A)
 
-## Screenshots
-
-| Screen | Preview |
-| --- | --- |
-| Splash | ![Splash screen](docs/screenshots/01_splash.png) |
-| First-run setup | ![Setup screen](docs/screenshots/02_setup.png) |
-| Dashboard | ![Dashboard](docs/screenshots/03_dashboard.png) |
-| Add expense | ![Add expense](docs/screenshots/04_add_expense.png) |
-| Add allowance | ![Add allowance](docs/screenshots/05_add_allowance.png) |
-| History | ![History](docs/screenshots/06_history.png) |
-| Budget | ![Budget](docs/screenshots/07_budget.png) |
-| Insights | ![Insights](docs/screenshots/08_insights.png) |
-| Settings | ![Settings](docs/screenshots/09_settings.png) |
-| Dark mode | ![Dark mode](docs/screenshots/10_dark_mode.png) |
-
-Screenshots go in `docs/screenshots/`.
-
 ## Features
 
 ### Core
